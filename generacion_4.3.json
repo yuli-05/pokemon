@@ -114,8 +114,8 @@
       "Rock"
     ],
     "next_evolution": [{
-      "num": "0",
-      "name": "This is the final evolution"}]
+      "num": "413",
+      "name": "Wormadam"}]
   },{
     "id": 413,
     "num": "413",
@@ -282,17 +282,15 @@
     "spawn_chance": 0.042,
     "avg_spawns": 4.2,
     "spawn_time": "07:00",
-    "multipliers": [
-      1.2,
-      1.6
-    ],
+    "multipliers": [1.2],
     "weaknesses": [
       "Electric",
       "Plant"
     ],
     "next_evolution": [{
       "num": "419",
-      "name": "Floatzel"}]
+      "name": "Floatzel"
+    }]
   },{
     "id": 419,
     "num": "419",
@@ -309,10 +307,7 @@
     "spawn_chance": 0.042,
     "avg_spawns": 4.2,
     "spawn_time": "07:00",
-    "multipliers": [
-      1.2,
-      1.6
-    ],
+    "multipliers": [1.2],
     "weaknesses": [
       "Electric",
       "Plant"
@@ -2044,8 +2039,7 @@
        "name": "This is the final Evolution"
     }]
     
-   },
-   {
+   },{
       "id": 475,
       "num": "475",
       "name": "Gallade",
@@ -2083,6 +2077,12 @@
           "num": "282",
           "name": "Gardevoir"
         }
+      ],
+      "next_evolution": [
+        {
+          "num": "000",
+          "name": "This is the final"
+        }
       ]
     },
 
@@ -2115,6 +2115,12 @@
         {
           "num": "299",
           "name": "Nosepass"
+        }
+      ],
+      "next_evolution": [
+        {
+          "num": "000",
+          "name": "This is the final"
         }
       ]
     },
@@ -2150,6 +2156,12 @@
         {
           "num": "356",
           "name": "Dusclops"
+        }
+      ],
+      "next_evolution": [
+        {
+          "num": "000",
+          "name": "This is the final"
         }
       ]
     },
@@ -2189,6 +2201,12 @@
         {
           "num": "362",
           "name": "Glalie"
+        }
+      ],
+      "next_evolution": [
+        {
+          "num": "000",
+          "name": "This is the final"
         }
       ]
     },
@@ -2540,8 +2558,8 @@
       ],
       "next_evolution": [
         {
-          "num": "000",
-          "name": "This is the final"
+          "num": "490",
+          "name": "Manaphy"
         }
       ]
     },
