@@ -1,0 +1,704 @@
+{
+    "pokemon" : [
+    {
+      "id" : 387 ,
+      "num" : " 387 " ,
+      "name" : " Turtwig " ,
+      "img" : " https://www.serebii.net/pokemongo/pokemon/387.png " ,
+      "type" : [
+        " Grass "
+      ],
+      "height" : " 0.4 m " ,
+      "weight" : " 10.2 kg " ,
+      "candy" : " Turtwigcandy" ,
+      "candy_count" : 25 ,
+      "egg" : " 2 km " ,
+      "spawn_chance" : 0.69 , 
+      "vg_spawns" : 69 ,
+      "spawn_time" : " 20:00 " ,
+      "multipliers" : [ 1.58 
+    ],
+      "weaknesses" : [
+        " Bug",
+        " fire ",
+        " Fliying ",
+        " Ice ",
+        "Veneno" 
+      ],
+      "next_evolution" : [{
+        "num" : " 388 " ,
+        "name" : " Grotle "
+      },{
+        "num" : " 389 " ,
+        "name" : " Torterra "
+        }]
+      
+    },
+    {
+    "id" : 388 ,
+    "num" : " 388 " ,
+    "name" : "Grotle " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/388.png " ,
+    "type" : [
+      " Grass "
+    ],
+    "height" : " 1.1 m " ,
+    "weight" : " 97 kg " ,
+    "candy" : " Gotlecandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 3 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    "weaknesses" : [
+      " Bug",
+      " fire ",
+      " Fliying ",
+      " Ice ",
+      "Veneno"
+    ],
+    "previous_evolution" : [{
+      "num" : " 387" ,
+      "name" : " Turtwing "
+    }], 
+      "next_evolution": [{
+      "num" : " 389 " ,
+      "name" : " Torterra "
+    }]
+  
+    },
+    {
+    "id" : 389 ,
+    "num" : " 389 " ,
+    "name" : "Torterra " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/389.png " ,
+    "type" : [
+      " Grass ",
+      " Suelo "
+    ],
+    "height" : " 2.2 m " ,
+    "weight" : " 3 kg " ,
+    "candy" : " Torterracandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 3 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    "weaknesses" : [
+      " Bug",
+      " fire ",
+      " Fliying ",
+       " Ice "
+    ],
+    "previous_evolution" : [{
+      "num" : " 387 " ,
+      "name" : " Turtwing "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+    },
+    {
+    "id" : 390 ,
+    "num" : " 390 " ,
+    "name" : "Chimchar " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/390.png " ,
+    "type" : [
+      " fire "
+
+    ],
+    "height" : " 0.5 m " ,
+    "weight" : " 6.2 kg " ,
+    "candy" : " Chimcharcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 3 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    "weaknesses" : [
+      " Watter ", 
+      "Rock", 
+      "Eart" 
+    ],
+    "next_evolution" : [{
+      "num" : " 391 " ,
+      "name" : " Monferno "
+    },{
+      "num" : " 392 " ,
+      "name" : " Infernape "
+      }]
+     
+  },
+
+  {
+    "id" : 391 ,
+    "num" : " 391 " ,
+    "name" : " Monferno " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/381.png " ,
+    "type" : [
+      " fire ", 
+      "Fight"
+    ],
+    "height" : " 0.9 m " ,
+    "weight" : " 22 kg " ,
+    "candy" : " Monfernocandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Fliying ",
+      " Eart ",
+      " Psiquico ",
+      " Watter "
+    ],
+    " previous_evolution " : [{
+      "num" : " 390 " ,
+      "name" : " Chimchar "
+    }], 
+      "next_evolution": [{
+      "num" : " 392 " ,
+      "name" : " Infernape"
+      }]
+  },
+
+  {
+    "id" : 392 ,
+    "num" : " 392 " ,
+    "name" : " Infernape " ,
+    "img" : "https://www.serebii.net/pokemongo/pokemon/392.png " ,
+    "type" : [
+      " fire ", 
+      "Fight"
+    ],
+    "height" : " 1.2 m " ,
+    "weight" : " 55 kg " ,
+    "candy" : " Infernapecandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Fliying ",
+      " Eart ",
+      " Psiquico ",
+      " Watter " 
+    ],
+    " previous_evolution " : [{
+      "num" : " 391 " ,
+      "name" : " Monferno "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+  },
+
+  {
+    "id" : 393 ,
+    "num" : " 393 " ,
+    "name" : " Piplup " ,
+    "img" : "https://www.serebii.net/pokemongo/pokemon/393.png " ,
+    "type" : [
+      " Watter "
+    ],
+    "height" : " 0.4 m " ,
+    "weight" : " 5.2 kg " ,
+    "candy" : " Piplupcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+     " Plant " 
+    ],
+    " next_evolution " : [{
+      "num" : " 394" ,
+      "name" : " Prinplup "
+    },{
+      "num" : " 395 " ,
+      "name" : " Empoleon "
+      }]
+  },
+
+  {
+    "id" : 394 ,
+    "num" : " 394 " ,
+    "name" : " Prinplup " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/394.png" ,
+    "type" : [
+      " Watter "
+    ],
+    "height" : " 0.8 m " ,
+    "weight" : " 23 kg " ,
+    "candy" : " Prinplupcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+      " Plant " 
+    ],
+    " previous_evolution " : [{
+      "num" : " 393 " ,
+      "name" : " Piplup "
+    }], 
+      "next_evolution": [{
+      "num" : " 395 " ,
+      "name" : " Empoleon "
+      }]
+  },
+
+  {
+    "id" : 395 ,
+    "num" : " 395 " ,
+    "name" : " Empoleon " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/395.png " ,
+    "type" : [
+      " Watter ", 
+      "Fight"
+    ],
+    "height" : " 1.7 m " ,
+    "weight" : " 84.5 kg " ,
+    "candy" : " Empoleoncandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Watter ",
+      " Acero " 
+    ],
+    " previous_evolution " : [{
+      "num" : " 394 " ,
+      "name" : " Prinplup "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+  },
+
+  {
+    "id" : 396 ,
+    "num" : " 396 " ,
+    "name" : " Starly " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/396.png" ,
+    "type" : [
+      " Normal ",
+      " Volando "
+    ],
+    "height" : " 3 m " ,
+    "weight" : " 2 kg " ,
+    "candy" : " Starlycandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+      " Ice ",
+      " Rock "
+    ],
+    " next_evolution " : [{
+      "num" : " 397 " ,
+      "name" : " Staravia "
+    },{
+      "num" : " 398 " ,
+      "name" : " Starapor "
+      }]
+     
+  },
+
+  {
+    "id" : 397 ,
+    "num" : " 397 " ,
+    "name" : " Staravia " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/397.png " ,
+    "type" : [
+      " Grass "
+    ],
+    "height" : " 0.4 m " ,
+    "weight" : " 10.2 kg " ,
+    "candy" : " Staraviacandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+      " Ice ",
+      " Rock " 
+    ],
+    " previous_evolution " : [{
+      "num" : " 396 " ,
+      "name" : " Starly "
+    }], 
+      "next_evolution": [{
+      "num" : " 398 " ,
+      "name" : " Staraptor "
+      }]
+  },
+
+  {
+    "id" : 398 ,
+    "num" : " 398 " ,
+    "name" : " Staraptor " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/398.png " ,
+    "type" : [
+      " Normal ",
+      " Volando"
+    ],
+    "height" : " 1.2 m " ,
+    "weight" : " 24.9 kg " ,
+    "candy" : " Staraptorcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+      " Ice ",
+      " Rock " 
+    ],
+    " previous_evolution " : [{
+      "num" : " 397 " ,
+      "name" : " Staravia "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+
+  },
+
+  {
+    "id" : 399 ,
+    "num" : " 399 " ,
+    "name" : " Bidoof " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/399.png " ,
+    "type" : [
+      " Normal "
+    ],
+    "height" : " 0.2 m " ,
+    "weight" : " 20 kg " ,
+    "candy" : " Bidoofcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Lucha " 
+    ],
+    " next_evolution " : [{
+      "num" : " 400 " ,
+      "name" : " Bibarel "
+    }]
+    
+  },
+
+  {
+    "id" : 400 ,
+    "num" : " 400 " ,
+    "name" : " Bibarel " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/400.png " ,
+    "type" : [
+      " Normal ",
+      "Watter"
+    ],
+    "height" : " 1 m " ,
+    "weight" : " 31.5 kg " ,
+    "candy" : " Bibarelcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Electrico ",
+      " Lucha ",
+      " Plant "
+    ],
+    " previous_evolution " : [{
+      "num" : " 399 " ,
+      "name" : " Bidoof "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+
+  },
+
+  {
+    "id" : 401 ,
+    "num" : " 401 " ,
+    "name" : " Kricketot " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/401.png " ,
+    "type" : [
+      " Bug "
+    ],
+    "height" : " 0.3 m " ,
+    "weight" : " 2.2 kg " ,
+    "candy" : " Kricketotcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " fire ",
+      " Fliying ",
+      " Rock "
+    ], 
+      "next_evolution": [{
+      "num" : " 402 " ,
+      "name" : " Kricketune "
+      }]
+  },
+
+  {
+    "id" : 402 ,
+    "num" : " 402 " ,
+    "name" : " Kricketune " ,
+    "img" : "  https://www.serebii.net/pokemongo/pokemon/402.png " ,
+    "type" : [
+      " Bug "
+    ],
+    "height" : " 1 m " ,
+    "weight" : " 25.5 kg " ,
+    "candy" : " Kricketunecandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " fire ",
+      " Fliying ",
+      " Rock "
+    ],
+    " previous_evolution " : [{
+      "num" : " 401 " ,
+      "name" : " Kricketot "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+    }]
+  },
+
+  {
+    "id" : 403 ,
+    "num" : " 403 " ,
+    "name" : " Shinx " ,
+    "img" : "  https://www.serebii.net/pokemongo/pokemon/403.png " ,
+    "type" : [
+      " Electr "
+    ],
+    "height" : " 0.5 m " ,
+    "weight" : " 9.5 kg " ,
+    "candy" : " Shinxcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Eart "
+    ],
+    " next_evolution " : [{
+      "num" : " 404 " ,
+      "name" : " Luxio "
+    },{
+      "num" : " 405 " ,
+      "name" : " Luxray "
+    }]
+  },
+
+  {
+    "id" : 404 ,
+    "num" : " 404 " ,
+    "name" : " Luxio " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/404.png " ,
+    "type" : [
+      " Electr "
+    ],
+    "height" : " 0.9 m " ,
+    "weight" : " 30.5 kg " ,
+    "candy" : " Luxiocandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Eart "
+    ],
+    " previous_evolution " : [{
+      "num" : " 403 " ,
+      "name" : " shinx "
+    }], 
+      "next_evolution": [{
+      "num" : " 405 " ,
+      "name" : " Luxray "
+    }]
+  },
+
+  {
+    "id" : 405 ,
+    "num" : " 405 " ,
+    "name" : " Luxray " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/405.png " ,
+    "type" : [
+      " Electr "
+    ],
+    "height" : " 1.4 m " ,
+    "weight" : " 42 kg " ,
+    "candy" : " Luxraycandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Eart "
+    ],
+    " previous_evolution " : [{
+      "num" : " 404 " ,
+      "name" : " Luxio "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+    }]
+  },
+
+  {
+    "id" : 406 ,
+    "num" : " 406 " ,
+    "name" : " Budew " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/406.png " ,
+    "type" : [
+      " Veneno "
+    ],
+    "height" : " 0.2 m " ,
+    "weight" : " 1.2 kg " ,
+    "candy" : " Budewcandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " fire ",
+      " Fliying ",
+      " Ice ",
+      " Psiquico "
+    ],
+    " next_evolution " : [{
+      "num" : " 315 " ,
+      "name" : " Roselia "
+    },{
+      "num" : " 407 " ,
+      "name" : " Roserade "
+      }]
+     
+  },
+
+  {
+    "id" : 407 ,
+    "num" : " 407 " ,
+    "name" : " Roserade " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/407.png " ,
+    "type" : [
+      " Veneno ",
+      " Grass "
+    ],
+    "height" : " 0.9 m " ,
+    "weight" : " 14.6 kg " ,
+    "candy" : " Roseradecandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " fire ",
+      " Fliying ",
+      " Ice ",
+      " Psiquico "
+    ],
+    " previous_evolution " : [{
+      "num" : " 315 " ,
+      "name" : " Roselia "
+    }], 
+      "next_evolution": [{
+      "num" : " 0 " ,
+      "name" : " This is the final evolution "
+      }]
+     
+
+  },
+
+  {
+    "id" : 408 ,
+    "num" : " 408 " ,
+    "name" : " Cranidos " ,
+    "img" : " https://www.serebii.net/pokemongo/pokemon/408.png " ,
+    "type" : [
+      " Rock "
+    ],
+    "height" : " 0.9 m " ,
+    "weight" : " 31.5 kg " ,
+    "candy" : " Cranidoscandy" ,
+    "candy_count" : 25 ,
+    "egg" : " 2 km " ,
+    "spawn_chance" : 0.69 , 
+    "vg_spawns" : 69 ,
+    " spawn_time " : " 20:00 " ,
+    "multipliers" : [ 1.58 ],
+    " weaknesses " : [
+      " Lucha ",
+      " Plant ",
+      " Eart ",
+      " Acero ",
+      " Watter "
+    ],
+    " Next_evolution " : [{
+      "num" : " 409 " ,
+      "name" : " Ramparados"
+    }]
+  }
